@@ -43,9 +43,9 @@ Educational game developed with **JavaScript** and the **Phaser** framework to s
 
 ---
 
-### :blue_heart: [Defesa Cívil] G & M
+### :blue_heart: [Defesa Civil] G & M
 
-A full-stack web application developed in partnership with the Public Institution **Defesa Cívil**. The system replaces the arcaic archiving method by paper for a digital application that registers the citizens and archives the information in a cloud database.
+A full-stack web application developed in partnership with the Public Institution **Defesa Civil**. The system replaces the arcaic archiving method by paper for a digital application that registers the citizens and archives the information in a cloud database.
 
 **Technologies:** JavaScript • TypeScript • Node.js • SQL
 
