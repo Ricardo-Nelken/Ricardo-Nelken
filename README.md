@@ -78,9 +78,3 @@ A full-stack web application developed in partnership with the Public Institutio
 - :book: I enjoy learning through hands-on projects
 - :handshake: Always open to collaboration and networking
 - :bank: Always interested in talking about economy and finance
-
-Contributions that I made in the gitlab account -->
-
-<img width="1128" height="257" alt="image" src="https://github.com/user-attachments/assets/0a1a8767-4404-4ade-8244-c4f6f937aca3" />
-
-*
